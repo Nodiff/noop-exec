@@ -1,0 +1,23 @@
+{
+  "name": "noop-exec",
+  "version": "1.0.0",
+  "description": "do-nothing",
+  "main": "noop-exec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Nodiff/noop-exec.git"
+  },
+  "keywords": [
+    "noop"
+  ],
+  "author": "Roy Nodiff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nodiff/noop-exec/issues"
+  },
+  "homepage": "https://github.com/Nodiff/noop-exec#readme"
+}
+
